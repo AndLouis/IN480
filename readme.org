@@ -1,6 +1,8 @@
-* some code that we implimented for the courses IN480
+* some code that we implemented for the courses IN480
 
-* and a few projects
+* and a few projects ...
+
+
 
 
 
